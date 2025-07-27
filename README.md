@@ -128,20 +128,20 @@ namespace GitExamHooksProject.Tests
 
 <img width="751" height="171" alt="image" src="https://github.com/user-attachments/assets/3b434753-47e8-47ee-9c9f-ddc387add7aa" />
 
-The push failed due to the broken logic:
+**The push failed due to the broken logic:**
 
 <img width="881" height="459" alt="image" src="https://github.com/user-attachments/assets/9a07b36a-976e-4b75-b3c9-6141182f5d49" />
 
-The logic was fixed:
+**The logic was fixed:**
 
 <img width="797" height="170" alt="image" src="https://github.com/user-attachments/assets/0705e19d-1287-47fe-8842-aac07c962220" />
 
-And the push was successfull:
+**And the push was successfull:**
 
 <img width="879" height="654" alt="image" src="https://github.com/user-attachments/assets/61a55ce1-4a2a-4e23-b6d7-2caa70030cce" />
 
-Lower .Net version set:
-
+**Lower .Net version set:**
+```
 $ cat GitExamHooksProject/GitExamHooksProject.csproj
 <Project Sdk="Microsoft.NET.Sdk">
 
@@ -181,8 +181,8 @@ $ cat GitExamHooksProject.Tests/GitExamHooksProject.Tests.csproj
   </ItemGroup>
 
 </Project>
-
-Workflow YAML file created:
+```
+**Workflow YAML file created:**
 ```
 $ cat .github/workflows/dotnet.yml
 name: .NET CI
