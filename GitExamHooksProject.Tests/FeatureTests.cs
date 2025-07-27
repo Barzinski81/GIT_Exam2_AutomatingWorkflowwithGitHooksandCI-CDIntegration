@@ -1,5 +1,5 @@
-using Xunit;
 using GitExamHooksProject;
+using Xunit;
 
 namespace GitExamHooksProject.Tests
 {
