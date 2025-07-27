@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitExamHooksProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27dabcaf4691f87fa0764e8b30e4263044c6db0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3606db507e3867ac3862a71db971c07e79751583")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitExamHooksProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitExamHooksProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
