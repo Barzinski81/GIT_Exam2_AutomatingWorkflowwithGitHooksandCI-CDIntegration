@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\bin\Debug\net9.0\GitExamHooksProject.exe
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\bin\Debug\net9.0\GitExamHooksProject.deps.json
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\bin\Debug\net9.0\GitExamHooksProject.runtimeconfig.json
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\bin\Debug\net9.0\GitExamHooksProject.dll
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\bin\Debug\net9.0\GitExamHooksProject.pdb
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.dll
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\refint\GitExamHooksProject.dll
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.pdb
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\GitExamHooksProject.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\git_exam\automating-workflow\GitExamHooksProject\obj\Debug\net9.0\ref\GitExamHooksProject.dll
