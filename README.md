@@ -214,6 +214,6 @@ jobs:
 
 <img width="1232" height="788" alt="image" src="https://github.com/user-attachments/assets/50166b97-e463-403b-bcab-e0898c22c529" />
 
-The test were started upon a pull request:
+**The test were started upon a pull request:**
 
 <img width="933" height="818" alt="image" src="https://github.com/user-attachments/assets/77bd2d2e-f9fb-46a2-8822-5a0d2145b0f7" />
