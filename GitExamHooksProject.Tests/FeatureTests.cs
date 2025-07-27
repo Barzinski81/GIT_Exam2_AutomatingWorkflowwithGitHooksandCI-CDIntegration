@@ -8,7 +8,7 @@ namespace GitExamHooksProject.Tests
         [Fact]
         public void Square_ReturnsCorrectValue()
         {
-            Assert.Equal(17, Program.Square(4));
+            Assert.Equal(16, Program.Square(4));
         }
     }
 }
