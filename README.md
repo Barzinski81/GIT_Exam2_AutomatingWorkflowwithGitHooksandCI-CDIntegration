@@ -209,7 +209,7 @@ jobs:
       - name: Test
         run: dotnet test --no-build --verbosity normal
 ```
-
+**Approval to merge to the main branch was set:**
 <img width="1352" height="671" alt="image" src="https://github.com/user-attachments/assets/69ee1d11-98ad-4351-9776-fcaefa2531db" />
 
 <img width="1232" height="788" alt="image" src="https://github.com/user-attachments/assets/50166b97-e463-403b-bcab-e0898c22c529" />
