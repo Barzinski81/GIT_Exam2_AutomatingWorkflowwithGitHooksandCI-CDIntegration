@@ -50,7 +50,7 @@ indent_style = space
 indent_size = 4
 dotnet_sort_system_directives_first = true
 dotnet_style_qualification_for_field = false:suggestion
-
+```
 **commit-msg hook:**
 ```
 #!/bin/sh
