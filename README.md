@@ -1,3 +1,4 @@
+```
 dotnet new sln -n GitExamHooksProject
 dotnet new console -n GitExamHooksProject
 dotnet new xunit -n GitExamHooksProject.Tests
@@ -40,8 +41,6 @@ namespace GitExamHooksProject.Tests
 
 git add .
 git commit -m "Initial test commit"
-
-
 
 $ cat .editorconfig
 root = true
